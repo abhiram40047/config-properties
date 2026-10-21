@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prodd APIS"
+  contactDetails:
+    name: "Reine -Product Owner"
+    email: "reine@eazybank.com"
+  oncallSupport:
+    - (453) 845-9284
+    - (236) 563-4206
